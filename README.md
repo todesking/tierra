@@ -16,6 +16,8 @@ After build, you can run tierra docker environment with
 docker run -it tierra
 ``
 
+Note: Compiled `tierra` command is not works well. I have no solution yet :(
+
 ## References
 
 * Tierra [home page](http://life.ou.edu/tierra/).
