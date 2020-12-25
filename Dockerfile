@@ -1,3 +1,4 @@
+# This Dockerfile's license: WTFPL
 from ubuntu
 
 RUN apt-get update

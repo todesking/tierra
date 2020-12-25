@@ -19,4 +19,4 @@ docker run -it tierra
 ## References
 
 * Tierra [home page](http://life.ou.edu/tierra/).
-* See `tierra.doc` for command usage
+* See `tierra.doc` for command usage.
